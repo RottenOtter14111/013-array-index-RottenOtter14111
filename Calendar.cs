@@ -7,6 +7,6 @@ public class Calendar
 
     public string FindCurrentSeason(){
         return Seasons[1];
-        // idk why but this makes the test pass
+       
     }
 }
