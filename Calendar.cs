@@ -7,6 +7,5 @@ public class Calendar
 
     public string FindCurrentSeason(){
         return Seasons[1];
-       
     }
 }
